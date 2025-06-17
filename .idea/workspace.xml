@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b21a6ebf-0d58-4c28-902a-b401bcad0153" name="Changes" comment="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up).">
-      <changelist_data name="ossygomez" email="" automatic="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b21a6ebf-0d58-4c28-902a-b401bcad0153" name="Changes" comment="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up).&#10;TODO: Check for not used imports." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +21,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="ossygomez" />
         <option value="Oswaldo Gómez &lt;gosocosdav@gmail.com&gt;" />
+        <option value="ossygomez" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +30,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="7e94d6e2-6052-44bb-9e7f-7b8d8fb9e2eb" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ossygomez/todo-fastapi",
+    "accountId": "7e94d6e2-6052-44bb-9e7f-7b8d8fb9e2eb"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -86,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750201390775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up).&#10;TODO: Check for not used imports.">
+      <option name="closed" value="true" />
+      <created>1750202194404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750202194404</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +160,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CODE_SMELLS_PROFILE" value="Default" />
     <MESSAGE value="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up)." />
-    <option name="LAST_COMMIT_MESSAGE" value="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up)." />
+    <MESSAGE value="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up).&#10;TODO: Check for not used imports." />
+    <option name="LAST_COMMIT_MESSAGE" value="The app is working. Note: update and delete are on get requests, because the todo_id needs to be retrieved to make the update and delete functions work (I just made this up).&#10;TODO: Check for not used imports." />
   </component>
 </project>
